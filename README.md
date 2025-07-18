@@ -1,0 +1,49 @@
+# Centralized Content Management (CCM)
+
+The Centralized Content Management (CCM) plugin enables seamless content management across WordPress multisite networks. With this plugin, you can create and update content on a central site and effortlessly synchronize it across selected subsites in your network. The plugin simplifies multisite management by allowing selective syncing of posts, taxonomies, media, and more.
+
+## Features
+* **Multisite Syncing**: Syncs posts, pages, and custom post types from a central site to selected subsites in the network.
+* **Selective Sync Options**: Choose which post types, taxonomies, and post metadata to sync across subsites.
+* **Media & Taxonomy Handling**: Syncs media files and taxonomy terms between the central and selected subsites.
+* **Permissions Control**: Allows content modification restrictions on subsites based on central site settings.
+* **Relational Fields Support**: Maintains post relationships and associations across central and subsite content.
+* **Deletion Settings**: Automatically remove content from subsites when deleted from the central site.
+* **User-Friendly UI**: Easy-to-use admin interface to configure syncing options and manage content settings.
+
+== Frequently Asked Questions ==
+= How do I select which subsites to sync content with? =
+Visit the plugin's settings page in the network admin and choose the subsites you want to include in the sync.
+
+= What happens if I delete content from the central site? =
+The plugin offers options to automatically delete the corresponding content from selected subsites to keep them in sync.
+
+= Can I restrict editing on subsites? =
+Yes, you can restrict content editing on subsites based on the settings configured in the plugin, ensuring centralized control over synced content.
+
+
+### License
+This plugin is licensed under the GPLv2 or later license.
+
+
+### Changelog
+1.0 
+* Initial release of the Centralized Content Management plugin.
+
+
+### Upgrade Notice
+1.0
+Initial release. No upgrades available yet.
+
+This format should make your `readme.md` clear, informative, and helpful for users and developers alike.
+
+### Credits
+Centralized Content Management (CCM) is developed by Multidots. We appreciate the contributions from the open-source community.
+
+
+### Support
+For support or questions, please [open an issue](https://github.com/multidots/centralized-content-management/issues) or contact us via our website at [multidots.com](http://multidots.com/).
+
+
+## See potential here?
+<a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>

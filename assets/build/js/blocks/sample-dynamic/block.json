@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "centralized-content-management/sample-dynamic",
+  "version": "1.1.0",
+  "title": "Sample Dynamic",
+  "category": "centralized-content-management",
+  "icon": "lock",
+  "description": "Sample Dynamic block.",
+  "keywords": [
+    "sample",
+    "Dynamic"
+  ],
+  "supports": {
+    "html": false
+  },
+  "textdomain": "centralized-content-management",
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "This is Default Heading"
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

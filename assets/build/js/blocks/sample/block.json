@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "centralized-content-management/sample",
+  "version": "1.1.0",
+  "title": "Sample Block",
+  "category": "centralized-content-management",
+  "icon": "lock",
+  "description": "Sample block.",
+  "keywords": [
+    "sample",
+    "Block"
+  ],
+  "supports": {
+    "html": false
+  },
+  "textdomain": "centralized-content-management",
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "editorScript": "file:./index.js"
+}
