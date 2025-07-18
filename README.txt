@@ -7,8 +7,6 @@ Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Centralized Content Management (CCM) plugin enables seamless content management across WordPress multisite networks.
-
 == Description ==
 The Centralized Content Management (CCM) plugin enables seamless content management across WordPress multisite networks. With this plugin, you can create and update content on a central site and effortlessly synchronize it across selected subsites in your network. The plugin simplifies multisite management by allowing selective syncing of posts, taxonomies, media, and more.
 
