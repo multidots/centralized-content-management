@@ -1,7 +1,7 @@
 # Centralized Content Management (CCM)
 ![banner-772x250](https://github.com/user-attachments/assets/f7cc4d63-10b9-42a5-a7a1-fa9a7842586a)
 
-The Centralized Content Management (CCM) plugin enables seamless content management across WordPress multisite networks. With this plugin, you can create and update content on a central site and effortlessly synchronize it across selected subsites in your network. The plugin simplifies multisite management by allowing selective syncing of posts, taxonomies, media, and more.
+The Centralized Content Management (CCM) plugin streamlines content management across WordPress multisite networks. This powerful tool enables you to create, update, and synchronize content from a central site to selected subsites, ensuring consistency and efficiency. Whether managing posts, pages, taxonomies, or media, CCM simplifies multisite content distribution with selective syncing and automated updates.
 
 ## Features
 * **Multisite Syncing**: Syncs posts, pages, and custom post types from a central site to selected subsites in the network.
@@ -12,26 +12,25 @@ The Centralized Content Management (CCM) plugin enables seamless content managem
 * **Deletion Settings**: Automatically remove content from subsites when deleted from the central site.
 * **User-Friendly UI**: Easy-to-use admin interface to configure syncing options and manage content settings.
   
-### License
+## License
 This plugin is licensed under the GPLv2 or later license.
 
 
-### Changelog
+## Changelog
 1.0 
 * Initial release of the Centralized Content Management plugin.
 
 
-### Upgrade Notice
+## Upgrade Notice
 1.0
 Initial release. No upgrades available yet.
 
 This format should make your `readme.md` clear, informative, and helpful for users and developers alike.
 
-### Credits
+## Credits
 Centralized Content Management (CCM) is developed by Multidots. We appreciate the contributions from the open-source community.
 
-
-### Support
+## Support
 For support or questions, please [open an issue](https://github.com/multidots/centralized-content-management/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
 
