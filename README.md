@@ -25,8 +25,6 @@ This plugin is licensed under the GPLv2 or later license.
 1.0
 Initial release. No upgrades available yet.
 
-This format should make your `readme.md` clear, informative, and helpful for users and developers alike.
-
 ## Credits
 Centralized Content Management (CCM) is developed by Multidots. We appreciate the contributions from the open-source community.
 
