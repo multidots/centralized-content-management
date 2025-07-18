@@ -1,4 +1,5 @@
 # Centralized Content Management (CCM)
+![banner-772x250](https://github.com/user-attachments/assets/f7cc4d63-10b9-42a5-a7a1-fa9a7842586a)
 
 The Centralized Content Management (CCM) plugin enables seamless content management across WordPress multisite networks. With this plugin, you can create and update content on a central site and effortlessly synchronize it across selected subsites in your network. The plugin simplifies multisite management by allowing selective syncing of posts, taxonomies, media, and more.
 
