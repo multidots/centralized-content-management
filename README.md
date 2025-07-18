@@ -34,5 +34,5 @@ Centralized Content Management (CCM) is developed by Multidots. We appreciate th
 For support or questions, please [open an issue](https://github.com/multidots/centralized-content-management/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
 
-## See potential here?
+## Get In Touch
 <a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>
