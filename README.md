@@ -12,14 +12,9 @@ The Centralized Content Management (CCM) plugin streamlines content management a
 * **Deletion Settings**: Automatically remove content from subsites when deleted from the central site.
 * **User-Friendly UI**: Easy-to-use admin interface to configure syncing options and manage content settings.
   
-## License
-This plugin is licensed under the GPLv2 or later license.
-
-
 ## Changelog
 1.0 
 * Initial release of the Centralized Content Management plugin.
-
 
 ## Upgrade Notice
 1.0
@@ -30,6 +25,9 @@ Centralized Content Management (CCM) is developed by Multidots. We appreciate th
 
 ## Support
 For support or questions, please [open an issue](https://github.com/multidots/centralized-content-management/issues) or contact us via our website at [multidots.com](http://multidots.com/).
+
+## License
+This plugin is licensed under the GPLv2 or later license.
 
 
 ## Get In Touch
