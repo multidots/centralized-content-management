@@ -11,18 +11,7 @@ The Centralized Content Management (CCM) plugin enables seamless content managem
 * **Relational Fields Support**: Maintains post relationships and associations across central and subsite content.
 * **Deletion Settings**: Automatically remove content from subsites when deleted from the central site.
 * **User-Friendly UI**: Easy-to-use admin interface to configure syncing options and manage content settings.
-
-== Frequently Asked Questions ==
-= How do I select which subsites to sync content with? =
-Visit the plugin's settings page in the network admin and choose the subsites you want to include in the sync.
-
-= What happens if I delete content from the central site? =
-The plugin offers options to automatically delete the corresponding content from selected subsites to keep them in sync.
-
-= Can I restrict editing on subsites? =
-Yes, you can restrict content editing on subsites based on the settings configured in the plugin, ensuring centralized control over synced content.
-
-
+  
 ### License
 This plugin is licensed under the GPLv2 or later license.
 
