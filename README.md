@@ -16,10 +16,6 @@ The Centralized Content Management (CCM) plugin streamlines content management a
 1.0 
 * Initial release of the Centralized Content Management plugin.
 
-## Upgrade Notice
-1.0
-Initial release. No upgrades available yet.
-
 ## Credits
 Centralized Content Management (CCM) is developed by Multidots. We appreciate the contributions from the open-source community.
 
